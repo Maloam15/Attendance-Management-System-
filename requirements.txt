@@ -1,0 +1,13 @@
+opencv-python
+face-recognition
+dlib
+numpy
+pandas
+openpyxl
+flask
+tensorflow
+keras
+pillow
+scipy
+imutils
+cmake
